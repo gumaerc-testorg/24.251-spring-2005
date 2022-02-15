@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource gives information on strawson?s distinctions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-251-introduction-to-philosophy-of-language-spring-2005/06c122274bb216d6e1a65824b528b085_handout8.pdf
+file: /media/courses/24-251-introduction-to-philosophy-of-language-spring-2005/06c122274bb216d6e1a65824b528b085_handout8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: handout8.pdf
 uid: 06c12227-4bb2-16d6-e1a6-5824b528b085
