@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on minimalist accounts of truth, normativity,
   truth value gaps, rejecting contraposition, and expressivism.
-file: /media/courses/24-251-introduction-to-philosophy-of-language-spring-2005/9139385b96f878789bbfca5a51bc35d0_handout21.pdf
+file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/9139385b96f878789bbfca5a51bc35d0_handout21.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: handout21.pdf
 uid: 9139385b-96f8-7878-9bbf-ca5a51bc35d0
 ---
+This resource gives information on minimalist accounts of truth, normativity, truth value gaps, rejecting contraposition, and expressivism.
+
