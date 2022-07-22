@@ -6,6 +6,7 @@ file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/68cac44
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: handout1.pdf
 uid: 68cac441-9e69-f8d4-9798-143e3ec90084
 ---
 This course contains information on predicate analysis, semantics and pragmatics.
-

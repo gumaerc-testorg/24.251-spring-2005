@@ -6,6 +6,7 @@ file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/e75331b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: handout12.pdf
 uid: e75331b8-22aa-b523-92fb-6d44b3d3573b
 ---
 This resource gives information on the nature of a performative utterance, infelicities, and marks of performatives.
-

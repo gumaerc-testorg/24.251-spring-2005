@@ -5,6 +5,7 @@ file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/53ae0c7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: handout4.pdf
 uid: 53ae0c70-8d3a-bbcd-7737-df36ff461c26
 ---
 This resource gives information on radical reductionism.
-

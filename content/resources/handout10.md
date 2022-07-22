@@ -5,6 +5,7 @@ file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/d1af25a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: handout10.pdf
 uid: d1af25a5-3ea7-6b55-4cf2-b9e0e397e81f
 ---
 This resource gives information on Non-catastrophic presupposition failure.
-

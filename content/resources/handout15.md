@@ -6,6 +6,7 @@ file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/d7a78c2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: handout15.pdf
 uid: d7a78c2c-e50d-976f-bd76-9856ef8bddcf
 ---
 This resource gives information on subordination, silencing, and presuppositional Accommodation.
-

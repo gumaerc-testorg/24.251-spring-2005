@@ -6,6 +6,7 @@ file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/0b0a348
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: handout7.pdf
 uid: 0b0a3489-d50a-2459-9120-391b43590d02
 ---
 This resource gives information on metaphysical possibility and epistemic possibility.
-

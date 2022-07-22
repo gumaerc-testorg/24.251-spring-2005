@@ -5,6 +5,7 @@ file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/3afc391
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: handout16.pdf
 uid: 3afc391d-b090-f666-ddb2-3578013a33f7
 ---
 This resource gives information on different conventions.
-

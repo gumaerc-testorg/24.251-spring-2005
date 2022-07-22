@@ -6,6 +6,7 @@ file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/7710cc5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: handout18.pdf
 uid: 7710cc5b-4a9f-3555-4504-5379cdce6ad0
 ---
 This resource gives information on disquotation principle, and translation principle.
-

@@ -6,6 +6,7 @@ file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/1c9293f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: handout2.pdf
 uid: 1c9293f5-8f09-bc43-2543-58f303e301b7
 ---
 This resource gives information on the metalinguistic approach to identity, sense without reference, and indirect discourse.
-

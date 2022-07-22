@@ -6,6 +6,7 @@ file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/bde6b7c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: handout20.pdf
 uid: bde6b7c4-abf0-d9f0-3aa0-d9c4e11b91db
 ---
 This resource gives information on disquotational accounts of truth, and paradox of the Liar.
-

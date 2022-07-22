@@ -6,6 +6,7 @@ file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/8c2b4db
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: handout9.pdf
 uid: 8c2b4dbe-be75-d533-4362-6a924c096e9d
 ---
 This resource gives information on five Artificial Languages, and the gricean framework.
-

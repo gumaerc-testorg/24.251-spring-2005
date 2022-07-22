@@ -6,6 +6,7 @@ file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/89b2879
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: handout17.pdf
 uid: 89b28793-8f99-ac43-4eea-300a50d23df2
 ---
 This resource gives information on davidson?s paratactic analysis, and worries for davidson and frege.
-
