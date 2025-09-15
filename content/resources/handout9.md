@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource gives information on five Artificial Languages, and the
   gricean framework.
-file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/8c2b4dbebe75d53343626a924c096e9d_handout9.pdf
+file: /ol-ocw-studio-app/courses/24-251-introduction-to-philosophy-of-language-spring-2005/8c2b4dbebe75d53343626a924c096e9d_handout9.pdf
+file_size: 73619
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

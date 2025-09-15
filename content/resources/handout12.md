@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource gives information on the nature of a performative utterance,
   infelicities, and marks of performatives.
-file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/e75331b822aab52392fb6d44b3d3573b_handout12.pdf
+file: /ol-ocw-studio-app/courses/24-251-introduction-to-philosophy-of-language-spring-2005/e75331b822aab52392fb6d44b3d3573b_handout12.pdf
+file_size: 78458
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

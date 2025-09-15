@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource gives information on the metalinguistic approach to identity,
   sense without reference, and indirect discourse.
-file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/1c9293f58f09bc43254358f303e301b7_handout2.pdf
+file: /ol-ocw-studio-app/courses/24-251-introduction-to-philosophy-of-language-spring-2005/1c9293f58f09bc43254358f303e301b7_handout2.pdf
+file_size: 89174
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

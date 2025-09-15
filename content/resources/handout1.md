@@ -2,7 +2,8 @@
 content_type: resource
 description: This course contains information on predicate analysis, semantics and
   pragmatics.
-file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/68cac4419e69f8d49798143e3ec90084_handout1.pdf
+file: /ol-ocw-studio-app/courses/24-251-introduction-to-philosophy-of-language-spring-2005/68cac4419e69f8d49798143e3ec90084_handout1.pdf
+file_size: 73676
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

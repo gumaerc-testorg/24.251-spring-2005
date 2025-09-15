@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource gives information on semantic Innocence, and direct Reference.
-file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/ea21cfff6f4d5db70d83b2f08c219ee9_handout19.pdf
+file: /ol-ocw-studio-app/courses/24-251-introduction-to-philosophy-of-language-spring-2005/ea21cfff6f4d5db70d83b2f08c219ee9_handout19.pdf
+file_size: 86585
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

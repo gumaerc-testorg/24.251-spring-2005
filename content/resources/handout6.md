@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource gives information on the modal argument, the Epistemic
   Argument, and the Semantic Argument.
-file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/53e1e043775bcd88b0fb5474466ca36e_handout6.pdf
+file: /ol-ocw-studio-app/courses/24-251-introduction-to-philosophy-of-language-spring-2005/53e1e043775bcd88b0fb5474466ca36e_handout6.pdf
+file_size: 81852
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

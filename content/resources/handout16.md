@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource gives information on different conventions.
-file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/3afc391db090f666ddb23578013a33f7_handout16.pdf
+file: /ol-ocw-studio-app/courses/24-251-introduction-to-philosophy-of-language-spring-2005/3afc391db090f666ddb23578013a33f7_handout16.pdf
+file_size: 77366
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

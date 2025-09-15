@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource gives information on disquotation principle, and translation
   principle.
-file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/7710cc5b4a9f355545045379cdce6ad0_handout18.pdf
+file: /ol-ocw-studio-app/courses/24-251-introduction-to-philosophy-of-language-spring-2005/7710cc5b4a9f355545045379cdce6ad0_handout18.pdf
+file_size: 84446
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
